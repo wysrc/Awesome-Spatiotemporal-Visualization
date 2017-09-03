@@ -1,5 +1,5 @@
 # Awesome-Spatiotemporal-Visualization
-A collection of awesome spatiotemporal visualization for reference.
+A collection of awesome spatiotemporal visualization for reference, especially in big data applications.
 
 [1. Nanocubes](http://www.nanocubes.net/)
 * Provide real-time visualization of large datasets(like 100,000,000 points)
