@@ -16,7 +16,7 @@ A collection of awesome spatiotemporal visualization for reference, especially i
 * Wide applications in social media, taxi rides, mobile network and so on
 
 
-　　[GitHub](https://github.com/mapd)　　[Demo](https://www.mapd.com/demos/)
+　[GitHub](https://github.com/mapd)　　[Demo](https://www.mapd.com/demos/)
 
 
 More coming soon...
