@@ -25,7 +25,16 @@ A collection of awesome spatiotemporal visualization for reference, especially i
 * High scalability with tile services building on Apache Spark and Haddop
 
 
-　[GitHub]()　　[Demo]()
+　[GitHub](https://github.com/unchartedsoftware/aperture-tiles)　　[Demo](http://aperturetiles.com/)
+
+
+**4. Datashader**
+* Data rasterization pipeline for creating representations of large amounts of data
+* Writen in Python with support for Pandas and Dask dataframes
+* Suitable for pre-processing stage in a plotting library
+
+
+　[GitHub](https://github.com/bokeh/datashader)　　[Demo](http://go2.continuum.io/JN12XH0g0W0Rb300CZ00000)
 
 
 More coming soon...
